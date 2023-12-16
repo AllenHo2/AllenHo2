@@ -35,8 +35,6 @@
 ## Contacts📧
 
 <div>
-    Connect with me here!!
-    <br>
     <a href="https://www.linkedin.com/in/allen-ho-b67a6725b/"><img width="58" alt="Linkedin_icon" src="https://github.com/AllenHo2/project02-Elevator/assets/112123839/38209676-0df8-4cdf-a99e-e172deb63854" href="https://www.linkedin.com/in/allen-ho-b67a6725b/"></img></a>
 </div>
 
