@@ -1,4 +1,4 @@
-# 🐵 Allen Ho 🐵
+# 🐵 Allen 🐵
 
 `Student (Software Engineer/Developer)` 
 <div align="center">
