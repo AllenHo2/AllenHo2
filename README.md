@@ -10,7 +10,8 @@
 
 <hr>
 
-<div>
+<h3 align="center"> Current Activity </h3>
+<div align="center">
     <p>I'm currently working on my own portfolio and trying to improvise it in my free time!</p>
 </div>
 <!-- <hr>
@@ -34,9 +35,9 @@
 
 <h2 align="center"> Contacts📧 </h2>
 
-<div class="center>
-    <a href="https://www.linkedin.com/in/allen-ho-b67a6725b/" ><img width="58" alt="Linkedin_icon" src="https://github.com/AllenHo2/project02-Elevator/assets/112123839/38209676-0df8-4cdf-a99e-e172deb63854" href="https://www.linkedin.com/in/allen-ho-b67a6725b/"></img></a>
-    <a href="mailto:allenho2242004@gmail.com"> <img width="58" alt="Email Icon" src="https://github.com/AllenHo2/My-Portfolio/assets/112123839/50d74f81-1d61-4fa9-953f-aa70eedbc2c3"></img></a>
+<div align="center">
+    <a href="https://www.linkedin.com/in/allen-ho-b67a6725b/" ><img width="58" alt="Linkedin_icon" src="https://github.com/AllenHo2/project02-Elevator/assets/112123839/38209676-0df8-4cdf-a99e-e172deb63854" href="https://www.linkedin.com/in/allen-ho-b67a6725b/" align="center"></img></a>
+    <a href="mailto:allenho2242004@gmail.com"> <img width="58" alt="Email Icon" src="https://github.com/AllenHo2/My-Portfolio/assets/112123839/50d74f81-1d61-4fa9-953f-aa70eedbc2c3" align="center"></img></a>
 </div>
 
 
