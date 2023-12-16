@@ -32,7 +32,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenHo2&layout=compact" alt="Top Languages" width="400">
 </div>
 
-## Contacts📧
+<h2 align="center"> Contacts📧 </h2>
 
 <div>
     <a href="https://www.linkedin.com/in/allen-ho-b67a6725b/"><img width="58" alt="Linkedin_icon" src="https://github.com/AllenHo2/project02-Elevator/assets/112123839/38209676-0df8-4cdf-a99e-e172deb63854" href="https://www.linkedin.com/in/allen-ho-b67a6725b/"></img></a>
