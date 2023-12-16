@@ -1,7 +1,7 @@
 # 🐵 Allen 🐵
 
 `Student (Software Engineer/Developer)` 
-<p style="text-align: center;">
+<p style="text-align: center">
 Hello there👋 My name is Allen Ho and I'm a 2nd year student at the University of San Francisco. I love to create new websites and apps in my free time! 😁
 </p>
 <!--
