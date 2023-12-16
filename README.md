@@ -8,6 +8,11 @@
     <br>
 </div>
 
+<hr>
+
+<div>
+    <p>I'm currently working on my own portfolio and trying to improvise it in my free time!</p>
+</div>
 <!-- <hr>
 
 <div>
@@ -27,6 +32,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenHo2&layout=compact" alt="Top Languages" width="400">
 </div>
 
+## Contacts📧
+
+<div>
+    Connect with me here!!
+    <br>
+    <a href="https://www.linkedin.com/in/allen-ho-b67a6725b/"><img width="58" alt="Linkedin_icon" src="https://github.com/AllenHo2/project02-Elevator/assets/112123839/38209676-0df8-4cdf-a99e-e172deb63854" href="https://www.linkedin.com/in/allen-ho-b67a6725b/"></img></a>
+</div>
 
 
 
