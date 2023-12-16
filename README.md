@@ -8,7 +8,7 @@
     <br>
 </div>
 
-<hr>
+<!-- <hr>
 
 <div>
 
@@ -17,7 +17,7 @@
     <li style="font-family: Comic Sans MS">I love to play Video Games 🎮</li>
     <li style="font-family: Comic Sans MS">I drink a lot of Coffee ☕ </li>
  </ul>
-</div>
+</div> -->
 
 <hr>
 
