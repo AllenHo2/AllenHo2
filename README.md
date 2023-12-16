@@ -1,4 +1,4 @@
-# 🐵 Allen 🐵
+<h1 align="center"> 🐵 Allen 🐵 </h1>
 
 `Student (Software Engineer/Developer)` 
 <div align="center">
