@@ -11,11 +11,8 @@
 <hr>
 
 ## Stats📊
-![My Github Score](https://github-readme-stats.vercel.app/api?username=AllenHo2&show_icons=true&theme=radical)  <!-- Add width attribute here, for example: width="400" -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenHo2&layout=compact)  <!-- Add width attribute here, for example: width="400" -->
-
-
-
+![My Github Score](https://github-readme-stats.vercel.app/api?username=AllenHo2&show_icons=true&theme=radical) width="400"
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenHo2&layout=compact) width="400"
 
 
 
