@@ -1,5 +1,8 @@
 # 🐵 Allen 🐵
 
+** `Student (Software Engineer/Developer)` **
+
+I'm a 2nd year student at the University of San Francisco and I love to create new websites and apps in my free time!
 
 <!--
 **AllenHo2/AllenHo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
