@@ -3,7 +3,7 @@
 `Student (Software Engineer/Developer)` 
 <div style="text-align: center">
     Hello there👋 My name is Allen Ho and I'm a 2nd year student at the University of San Francisco. I love to create new websites and apps in my free time! 😁
-    <img src="https://tenor.com/view/tkthao219-bubududu-panda-gif-24055162" alt="Hello Gif" title="Hello Gif" width="40" height="40"/>
+    <img src="https://media.tenor.com/CedXUNwq3fcAAAAi/tkthao219-bubududu.gif" alt="Hello Gif" title="Hello Gif" width="40" height="40"/>
 </div>
 
 
