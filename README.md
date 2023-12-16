@@ -14,6 +14,10 @@
 ![My Github Score](https://github-readme-stats.vercel.app/api?username=AllenHo2&show_icons=true&theme=radical)
 
 
+## Most Used Languages🌎
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenHo2&layout=compact)
+
 
 
 
