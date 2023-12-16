@@ -1,7 +1,7 @@
 # 🐵 Allen 🐵
 
 `Student (Software Engineer/Developer)` 
-<div align="center" style="font-family: Comic Sans">
+<div align="center" style="font-family: Comic Sans MS">
     Hello there👋 My name is Allen Ho and I'm a 2nd year student at the University of San Francisco. I love to create new websites and apps in my free time! 😁
     <br>
     <img align="center" src="https://media.tenor.com/CedXUNwq3fcAAAAi/tkthao219-bubududu.gif" alt="Hello Gif" title="Hello Gif" width="200" height="200"/>
@@ -14,8 +14,8 @@
 
 ## About Me 👓
  <ul>
-    <li style="font-family: Comic Sans">I love to play Video Games 🎮</li>
-    <li style="font-family: Comic Sans">I drink a lot of Coffee ☕ </li>
+    <li style="font-family: Comic Sans MS">I love to play Video Games 🎮</li>
+    <li style="font-family: Comic Sans MS">I drink a lot of Coffee ☕ </li>
  </ul>
 </div>
 
