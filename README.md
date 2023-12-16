@@ -1,6 +1,6 @@
 # 🐵 Allen 🐵
 
-** `Student (Software Engineer/Developer)` **
+`Student (Software Engineer/Developer)` 
 
 I'm a 2nd year student at the University of San Francisco and I love to create new websites and apps in my free time!
 
