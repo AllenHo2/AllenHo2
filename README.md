@@ -6,7 +6,7 @@ Hello there👋 My name is Allen Ho and I'm a 2nd year student at the University
 <img src="https://tenor.com/view/tkthao219-bubududu-panda-gif-24055162" width"40" height="40"/>
 
 </div>
-![](https://tenor.com/view/tkthao219-bubududu-panda-gif-24055162)
+
 
 
 
