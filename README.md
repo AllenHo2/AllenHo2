@@ -10,7 +10,7 @@
 
 <hr>
 
-### Stats 
+## Stats📊
 ![My Github Score](https://github-readme-stats.vercel.app/api?username=AllenHo2&show_icons=true&theme=radical)
 
 
