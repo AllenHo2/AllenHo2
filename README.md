@@ -10,7 +10,7 @@
 
 <hr>
 
-<h3 align="center"> Current Activity </h3>
+<h3 align="center"> Current Activity 🏖️</h3>
 <div align="center">
     <p>I'm currently working on my own portfolio and trying to improvise it in my free time!</p>
 </div>
