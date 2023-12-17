@@ -20,7 +20,7 @@
 <h2 align="center"> Stats📊 </h2>
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=AllenHo2&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenHo2&layout=compact" alt="Top Languages" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenHo2&layout=compact" alt="Top Languages" width="300">
 </div>
 
 <h2 align="center"> Contacts📧 </h2>
