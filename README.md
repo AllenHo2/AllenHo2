@@ -19,15 +19,15 @@
 
 <h2 align="center"> Stats📊 </h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AllenHo2&show_icons=true&theme=radical" alt="GitHub Stats" width="400" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenHo2&layout=compact" alt="Top Languages" width="300" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AllenHo2&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenHo2&layout=compact" alt="Top Languages" width="300">
 </div>
 
 <h2 align="center"> Contacts📧 </h2>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/allen-ho-b67a6725b/" ><img width="58" alt="Linkedin_icon" src="https://github.com/AllenHo2/project02-Elevator/assets/112123839/38209676-0df8-4cdf-a99e-e172deb63854" href="https://www.linkedin.com/in/allen-ho-b67a6725b/" align="center"></img></a>
-    <a href="mailto:allenho2242004@gmail.com"> <img width="58" alt="Email Icon" src="https://github.com/AllenHo2/My-Portfolio/assets/112123839/50d74f81-1d61-4fa9-953f-aa70eedbc2c3" align="center"></img></a>
+    <a href="https://www.linkedin.com/in/allen-ho-b67a6725b/" ><img width="58" alt="Linkedin_icon" src="https://github.com/AllenHo2/project02-Elevator/assets/112123839/38209676-0df8-4cdf-a99e-e172deb63854" href="https://www.linkedin.com/in/allen-ho-b67a6725b/" ></img></a>
+    <a href="mailto:allenho2242004@gmail.com"> <img width="58" alt="Email Icon" src="https://github.com/AllenHo2/My-Portfolio/assets/112123839/50d74f81-1d61-4fa9-953f-aa70eedbc2c3"></img></a>
 </div>
 
 
