@@ -14,16 +14,6 @@
 <div align="center">
     <p>I'm currently working on my own portfolio and trying to improvise it in my free time!</p>
 </div>
-<!-- <hr>
-
-<div>
-
-## About Me 👓
- <ul>
-    <li style="font-family: Comic Sans MS">I love to play Video Games 🎮</li>
-    <li style="font-family: Comic Sans MS">I drink a lot of Coffee ☕ </li>
- </ul>
-</div> -->
 
 <hr>
 
