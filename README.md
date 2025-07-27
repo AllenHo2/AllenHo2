@@ -3,7 +3,7 @@
 `Student (Software Engineer/Developer)`
 
 <div align="center">
-    Hello there👋 My name is Allen Ho and I'm a 3rd year student at the University of San Francisco. I love to create new websites and apps in my free time! 😁
+    Hello there👋 My name is Allen Ho and I'm a 4th year Computer Science student with a concentration in AI at the University of San Francisco. I am currently interning at Bushido, where I'm developing new features using the T3 stack that helps music artists increase their engagement and licensing efficiency. I love to create new websites, crochet, and hike in my free time! Also an insanely big fan of coffee 😁
     <br>
     <img align="center" src="https://media.tenor.com/CedXUNwq3fcAAAAi/tkthao219-bubududu.gif" alt="Hello Gif" title="Hello Gif" width="200" height="200"/>
     <br>
@@ -14,7 +14,7 @@
 <h3 align="center"> Current Activity 🏖️</h3>
 <div align="center">
     <p>I'm currently working on my own portfolio and trying to improvise it in my free time!</p>
-    <p>Other than that, I am currently trying to learn React and Networking!</p>
+    <p>Other than that, I am currently working on another personal project that will soon be launched!</p>
 </div>
 
 <hr>
